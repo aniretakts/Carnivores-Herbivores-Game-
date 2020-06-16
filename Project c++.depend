@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1433086001 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Animals.h"
+	"Carnivores.h"
+	"Carnivores1.h"
+	"Carnivores2.h"
+
+1433069763 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\include\animals.h
+	<string>
+
+1433085839 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores.h
+
+1433086001 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores1.h
+
+1433086001 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores2.h
+
+1433086001 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores1.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Carnivores.h"
+	"Carnivores1.h"
+
+1433086001 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\carnivores2.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Carnivores.h"
+	"Carnivores2.h"
+
+1433085736 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Animals.h"
+	"Herbivores.h"
+	"Herbivores1.h"
+	"Herbivores2.h"
+
+1433085659 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores.h
+
+1433085736 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores1.h
+
+1433085736 c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores2.h
+
+1433085736 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores1.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Herbivores.h"
+	"Herbivores1.h"
+
+1433085736 source:c:\users\katerina\documents\Β Εξάμηνο\Οντοκεντρικός Προγραμματισμός\project c++\6248_project_2\project c++\herbivores2.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"Herbivores.h"
+	"Herbivores2.h"
+
